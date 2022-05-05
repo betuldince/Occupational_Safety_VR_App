@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Oculus/Interaction/Samples/Scenes/BasicGrab.unity
+    guid: 13bd76582a631124699f410c1e007f8c
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 5af80a3bf6a1b094499ad363526dade1, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e66b9d3516952bb48b1c70c51bf5ffc3, type: 2}
